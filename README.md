@@ -8,7 +8,7 @@ Neste repositório estão os *notebooks* dos meus projetos de Data Science.
 ## Projetos:
 
 * [Analisando os Dados do Airbnb - Hawaii](https://github.com/marcelorandolfo/data-science/blob/master/Analisando_os_Dados_do_Airbnb_Hawaii_.ipynb)
-* [Analisando a Violência no Rio de Janeiro](https://github.com/marcelorandolfo/data-science/blob/master/Analisando_a_viol%C3%AAncia_no_Rio_de_Janeiro.ipynb)
+* [Analisando a Violência no Rio de Janeiro](https://github.com/marcelorandolfo/data-science/blob/master/PROJETO_Analisando_a_Violencia_no_Rio_de_Janeiro.ipynb)
 * Data Science e doenças cardiovasculares:
   * [Processamento de dados - UCI *Machine Learning*](https://github.com/marcelorandolfo/data-science/blob/master/processamento_dados_uci_heart_disease.ipynb)
   * [Doenças cardiovasculares - Análise exploratória dos dados](https://github.com/marcelorandolfo/data-science/blob/master/doencas_cardiovasculares_analise_exploratoria.ipynb)

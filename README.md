@@ -12,7 +12,7 @@ Neste repositório estão os *notebooks* dos meus projetos de Data Science.
 * Data Science e doenças cardiovasculares:
   * [Processamento de dados - UCI *Machine Learning*](https://github.com/marcelorandolfo/data-science/blob/master/processamento_dados_uci_heart_disease.ipynb)
   * [Doenças cardiovasculares - Análise exploratória dos dados](https://github.com/marcelorandolfo/data-science/blob/master/doencas_cardiovasculares_analise_exploratoria.ipynb)
-
+  * [Doenças cardiovasculares - *Machine Learning*](https://github.com/marcelorandolfo/data-science/blob/master/doencas_cardiovasculares_machine_learning.ipynb)
 
 
 ## Sobre mim:

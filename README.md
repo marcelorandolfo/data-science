@@ -13,7 +13,7 @@ Neste repositório estão os *notebooks* dos meus projetos de Data Science.
   * [Processamento de dados - UCI *Machine Learning*](https://github.com/marcelorandolfo/data-science/blob/master/processamento_dados_uci_heart_disease.ipynb)
   * [Doenças cardiovasculares - Análise exploratória dos dados](https://github.com/marcelorandolfo/data-science/blob/master/doencas_cardiovasculares_analise_exploratoria.ipynb)
   * [Doenças cardiovasculares - *Machine Learning*](https://github.com/marcelorandolfo/data-science/blob/master/doencas_cardiovasculares_machine_learning.ipynb)
- * [Detecção de Fraude em Cartões de Crédito](https://github.com/marcelorandolfo/data-science/blob/master/deteccao_de_fraude_em_cartoes_de_credito.ipynb)
+ * [Detecção de Fraudes em Cartões de Crédito](https://github.com/marcelorandolfo/data-science/blob/master/deteccao_de_fraude_em_cartoes_de_credito.ipynb)
 
 
 ## Sobre mim:
